@@ -10,5 +10,5 @@ I'm a recent Master's graduate in Physics of Data with a strong passion for data
 **Tools**: Git, Jupyter, Docker
 
 ## 📫 Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mariam-hergnyan-60934a214/)
+- LinkedIn: [Mariam Hergnyan](https://www.linkedin.com/in/mariam-hergnyan-60934a214/)
 - Email: mariamhergnyan@gmail.com
