@@ -19,7 +19,7 @@ I'm a recent Master's graduate in Physics of Data with a strong passion for data
 ## 🔬 Featured Projects
 
 ### [VAE PointNet](https://github.com/mariamhergnyan/VAE_PointNet)  
-Explored 3D data generation using Variational Autoencoders (VAE) integrated with PointNet, a neural network model designed for point cloud data.
+Explored 3D object classification using Variational Autoencoders (VAE) integrated with PointNet, a neural network model designed for point cloud data.
 
 ### [Multi-Strain SIRS Influenza Model](https://github.com/mariamhergnyan/multistrainsirs-influenza)  
 Developed a multi-strain epidemiological model to study influenza dynamics, employing numerical simulations to understand the impact of cross-immunity and strain interactions.
