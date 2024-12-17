@@ -36,7 +36,7 @@ Collaborated on a project using Infomap to analyze pollination networks, highlig
 ### [COVID Vaccine Efficacy Bayesian Analysis](https://github.com/mariamhergnyan/COVID_Vaccine_Efficacy_Bayesian)  
 Applied Bayesian methods to analyze real-world vaccine efficacy data, providing probabilistic insights into the effectiveness of COVID-19 vaccines.
 
-### [Muon Project](https://github.com/mariamhergnyan/Muon_Project)  
+### [Muon Project](https://github.com/jjackson1994/Muon_Project)  
 Analyzed muon data from particle detectors, showcasing skills in high-energy physics data processing and signal extraction techniques.
 
 ### [Low-Mass X-ray Binaries](https://github.com/mariamhergnyan/Low-Mass-X-ray-Binaries)  
