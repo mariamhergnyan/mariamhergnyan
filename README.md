@@ -7,12 +7,12 @@ I'm a recent Master's graduate in Physics of Data with a strong passion for data
   Proficient in Python, R, and SQL, with extensive experience in data manipulation and big data processing using tools like Pandas, PySpark, and NumPy.
   
 - 🔍 **Machine Learning**  
-  Specialize in neural networks, computer vision, and generative models, leveraging frameworks like PyTorch and Scikit-learn. I've also worked on advanced methods for dimensionality reduction and probabilistic models.
+  Specialize in neural networks and computer vision, leveraging frameworks like PyTorch and Scikit-learn. I've also worked on advanced methods for dimensionality reduction and probabilistic models.
   
 - 🧬 **Data Analysis for Scientific Research**  
   Applied statistical mechanics, Bayesian inference, and advanced simulation techniques to analyze stem cell dynamics, molecular dynamics, and epidemiological models.
 
-**Tools**: Git, Jupyter, Docker, Spark, Kafka
+**Tools**: Git, Jupyter, Spark, Kafka, Docker
 
 ---
 
